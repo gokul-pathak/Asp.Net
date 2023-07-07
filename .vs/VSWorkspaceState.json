@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AspProject"
   ],
-  "SelectedNode": "\\AspProject",
+  "SelectedNode": "\\AspProject\\SampleProject.aspx.cs",
   "PreviewInSolutionExplorer": false
 }
